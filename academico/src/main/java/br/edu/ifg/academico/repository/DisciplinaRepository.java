@@ -7,3 +7,4 @@ import br.edu.ifg.academico.entities.Disciplina;
 public interface DisciplinaRepository extends JpaRepository<Disciplina, Integer>{
 
 }
+
